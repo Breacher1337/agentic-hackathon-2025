@@ -78,9 +78,13 @@ The **Agentic AI Hackathon** is a mission-driven innovation sprint where partici
 3. Open-source libraries and APIs are allowed  
 4. Projects must align with one of the challenge tracks  
 5. Submission must include:
-   - Source code (on GitHub)
-   - Documentation
-   - Demo video or walkthrough
+   - Source code (on GitHub)  
+   - Documentation  
+   - Demo video or walkthrough  
+6. **Only fresh and original ideas are allowed.**  
+   - Projects that have **already received funding** or  
+   - **Previously won other hackathons or competitions**  
+   will **not be eligible** for this hackathon.
 
 ---
 
