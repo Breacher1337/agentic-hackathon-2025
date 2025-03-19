@@ -19,9 +19,6 @@ The **Agentic AI Hackathon** is a mission-driven innovation sprint where partici
 - **Single-Agent Solutions** – Build an app that uses one AI agent to perform tasks efficiently.  
 - **Multi-Agent Systems** – Develop collaborative agents that communicate and solve complex problems together.
 
-### 🔐 Agentic Security  
-- **Security-Focused Agents** – Create AI tools that detect risks, enhance cybersecurity, and protect user data.
-
 ---
 
 ## 📅 Timeline  
@@ -51,8 +48,8 @@ The **Agentic AI Hackathon** is a mission-driven innovation sprint where partici
 ### Registration Steps  
 1. Fill out the [registration form](#) *(opens March 20)*  
 2. Submit your **project idea** along with your registration  
-3. Join our Discord community  
-4. Form or join a team (2–4 members)  
+3. Join our Telegram community  
+4. Form or join a team (2–3 members)  
 5. If selected, you’ll start building your project during the **Kick-off Event on April 10**
 
 ---
@@ -73,7 +70,7 @@ The **Agentic AI Hackathon** is a mission-driven innovation sprint where partici
 ---
 
 ## 📋 Rules and Guidelines  
-1. Teams of 2–4 members only  
+1. Teams of 2–3 members only  
 2. All code must be original and created during the hackathon  
 3. Open-source libraries and APIs are allowed  
 4. Projects must align with one of the challenge tracks  
