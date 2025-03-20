@@ -25,6 +25,11 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="./CODE_OF_CONDUCT.md">🤝 Code of Conduct</a> • 
+  <a href="./WELCOME.md">👋 Welcome Guide</a>
+</p>
+
 ## 🧠 About Gen AI Philippines  
 At **Gen AI Philippines**, we empower Filipinos to explore and build with generative AI by addressing both technical and non-technical challenges. From misinformation to responsible AI use, we believe in promoting innovation rooted in ethics and real-world impact.
 
