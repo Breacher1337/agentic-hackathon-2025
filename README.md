@@ -1,4 +1,6 @@
-# Agentic AI Hackathon 2025 🚀
+<p align="center">
+  <h1>Agentic AI Hackathon 2025 🚀</h1>
+</p>
 
 <p align="center">
   <img src="484375722_122185705268255386_5486765374022898842_n.jpg" alt="Hackathon Banner" width="500" />
