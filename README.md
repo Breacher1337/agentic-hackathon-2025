@@ -4,13 +4,26 @@
   <img src="484375722_122185705268255386_5486765374022898842_n.jpg" alt="Hackathon Banner" width="500" />
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gen_AI_Philippines-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/company/gen-ai-philippines/?viewAsMember=true)
-[![GitHub](https://img.shields.io/badge/GitHub-GenAIPHBuilders-green?style=flat-square&logo=github)](https://github.com/GenAIPHBuilders-org)
+<p align="center">
+  <a href="https://www.linkedin.com/company/gen-ai-philippines/?viewAsMember=true">
+    <img src="https://img.shields.io/badge/LinkedIn-Gen_AI_Philippines-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/GenAIPHBuilders-org">
+    <img src="https://img.shields.io/badge/GitHub-GenAIPHBuilders-green?style=flat-square&logo=github" alt="GitHub">
+  </a>
+</p>
 
-<!-- GitHub Repo Stats -->
-[![GitHub Stars](https://img.shields.io/github/stars/GenAIPHBuilders-org/agentic-hackathon-2025?style=social)](https://github.com/GenAIPHBuilders-org/agentic-hackathon-2025/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/GenAIPHBuilders-org/agentic-hackathon-2025?style=social)](https://github.com/GenAIPHBuilders-org/agentic-hackathon-2025/network/members)
-[![GitHub Contributors](https://img.shields.io/github/contributors/GenAIPHBuilders-org/agentic-hackathon-2025)](https://github.com/GenAIPHBuilders-org/agentic-hackathon-2025/graphs/contributors)
+<p align="center">
+  <a href="https://github.com/GenAIPHBuilders-org/agentic-hackathon-2025/stargazers">
+    <img src="https://img.shields.io/github/stars/GenAIPHBuilders-org/agentic-hackathon-2025?style=social" alt="GitHub Stars">
+  </a>
+  <a href="https://github.com/GenAIPHBuilders-org/agentic-hackathon-2025/network/members">
+    <img src="https://img.shields.io/github/forks/GenAIPHBuilders-org/agentic-hackathon-2025?style=social" alt="GitHub Forks">
+  </a>
+  <a href="https://github.com/GenAIPHBuilders-org/agentic-hackathon-2025/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/GenAIPHBuilders-org/agentic-hackathon-2025" alt="GitHub Contributors">
+  </a>
+</p>
 
 ## 🧠 About Gen AI Philippines  
 At **Gen AI Philippines**, we empower Filipinos to explore and build with generative AI by addressing both technical and non-technical challenges. From misinformation to responsible AI use, we believe in promoting innovation rooted in ethics and real-world impact.
