@@ -8,24 +8,24 @@
 
   <a href="https://www.linkedin.com/company/gen-ai-philippines/?viewAsMember=true">
     <img src="https://img.shields.io/badge/LinkedIn-Gen_AI_Philippines-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-  </a>
+  </a>&nbsp;
   <a href="https://github.com/GenAIPHBuilders-org">
     <img src="https://img.shields.io/badge/GitHub-GenAIPHBuilders-green?style=flat-square&logo=github" alt="GitHub">
   </a>
 
-  <br/><br/>
+  <br/>
 
   <a href="https://github.com/GenAIPHBuilders-org/agentic-hackathon-2025/stargazers">
     <img src="https://img.shields.io/github/stars/GenAIPHBuilders-org/agentic-hackathon-2025?style=social" alt="GitHub Stars">
-  </a>
+  </a>&nbsp;
   <a href="https://github.com/GenAIPHBuilders-org/agentic-hackathon-2025/network/members">
     <img src="https://img.shields.io/github/forks/GenAIPHBuilders-org/agentic-hackathon-2025?style=social" alt="GitHub Forks">
-  </a>
+  </a>&nbsp;
   <a href="https://github.com/GenAIPHBuilders-org/agentic-hackathon-2025/graphs/contributors">
     <img src="https://img.shields.io/github/contributors/GenAIPHBuilders-org/agentic-hackathon-2025" alt="GitHub Contributors">
   </a>
 
-  <br/><br/>
+  <br/>
 
   <a href="./CODE_OF_CONDUCT.md">🤝 Code of Conduct</a> • 
   <a href="./WELCOME.md">👋 Welcome Guide</a>
