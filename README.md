@@ -1,5 +1,7 @@
 # Agentic AI Hackathon 2025 🚀
 
+<img src="484375722_122185705268255386_5486765374022898842_n.jpg" alt="Hackathon Banner" width="100%" />
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gen_AI_Philippines-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/company/gen-ai-philippines/?viewAsMember=true)
 [![GitHub](https://img.shields.io/badge/GitHub-GenAIPHBuilders-green?style=flat-square&logo=github)](https://github.com/GenAIPHBuilders-org)
 
