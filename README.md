@@ -55,14 +55,15 @@ The **Agentic AI Hackathon** is a mission-driven innovation sprint where partici
 | Date | Event |
 |------|-------|
 | **March 20, 2025** | Registration Opens |
-| **March 30, 2025** | Registration Deadline |
+| **April 06, 2025** | Registration Deadline |
+| **April 08, 2025** | Shortlisted Teams |
 | **April 10, 2025** | Kick-off Event (Begin building selected project ideas) |
-| **April 20, 2025** | Session 1: Agents Workshop |
-| **April 30, 2025** | Session 2: Fine-tuning Workshop |
-| **May 10, 2025** | Session 3: Multi-agentic Workshop |
-| **May 20, 2025** | Pitch Deck Submission |
-| **May 30, 2025** | Stage II Selection |
-| **June 20, 2025** | Demo Submission |
+| **April 13, 2025** | Session 1: Agents Workshop |
+| **April 26, 2025** | Session 2: Fine-tuning Workshop |
+| **May 03, 2025** | Session 3: Multi-agentic Workshop |
+| **May 10, 2025** | Session 4: Deploying AI Agent on Applications |
+| **May 30, 2025** | Pitch Deck Submission |
+| **June 15, 2025** | Demo and Video Submission |
 | **June 30, 2025** | Demo Day & Finals |
 
 ---
