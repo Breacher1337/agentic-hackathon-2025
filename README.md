@@ -79,7 +79,7 @@ The **Agentic AI Hackathon** is a mission-driven innovation sprint where partici
 1. Fill out the [registration form](#) *(opens March 20)*  
 2. Submit your **project idea** along with your registration  
 3. Join our Telegram community  
-4. Form or join a team (3–4 members)  
+4. Form or join a team (2–4 members)  
 5. If selected, you’ll start building your project during the **Kick-off Event on April 10**
 
 ---
@@ -100,7 +100,7 @@ The **Agentic AI Hackathon** is a mission-driven innovation sprint where partici
 ---
 
 ## 📋 Rules and Guidelines  
-1. Teams of 3–4 members only  
+1. Teams of 2–4 members only  
 2. All code must be original and created during the hackathon  
 3. Open-source libraries and APIs are allowed  
 4. Projects must align with one of the challenge tracks  
