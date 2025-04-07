@@ -55,9 +55,8 @@ The **Agentic AI Hackathon** is a mission-driven innovation sprint where partici
 | Date | Event |
 |------|-------|
 | **March 20, 2025** | Registration Opens |
-| **April 06, 2025** | Registration Deadline |
-| **April 08, 2025** | Shortlisted Teams |
-| **April 10, 2025** | Kick-off Event (Begin building selected project ideas) |
+| **April 07, 2025** | Registration Deadline |
+| **April 09, 2025** | Kick-off Event (Begin building selected project ideas) |
 | **April 13, 2025** | Session 1: Agents Workshop |
 | **April 26, 2025** | Session 2: Fine-tuning Workshop |
 | **May 03, 2025** | Session 3: Multi-agentic Workshop |
