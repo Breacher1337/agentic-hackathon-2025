@@ -1,28 +1,8 @@
-# Core AI & Agent Frameworks
-langchain>=0.1.0
-llama-index>=0.9.0
-openai>=0.27.0  # For GPT-4 API access
-google-generativeai>=0.3.1  # For Gemini API integration ⬅️ ADDED
-
-# Vector DB & Embeddings
-pinecone-client>=2.2.4
-torch>=2.0.0  # For embedding operations
-
-# Legal NLP
-transformers>=4.30.0  # For Legal-BERT
-sentence-transformers>=2.2.0  # For semantic comparison
-
-
-# Visualization & Architecture
-matplotlib>=3.7.0
-networkx>=3.0
-
-# Blockchain (Polygon)
-web3>=5.31.1
-
-# Optional: For OCR (Google Vision API)
-google-cloud-vision>=2.0.0
-
-# Dev Tools
-jupyter>=1.0.0
-python-dotenv>=1.0.0  # For API key management
+google-cloud-aiplatform==1.92.0
+google-cloud-storage==2.19.0
+google-genai==1.14.0
+gitpython==3.1.40
+python-dotenv==1.1.0
+google-adk==1.0.0
+pymupdf==1.26.0
+gdown==5.2.0
